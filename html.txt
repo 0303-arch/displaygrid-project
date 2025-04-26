@@ -1,0 +1,83 @@
+<div class="tabuleiro">
+  <div class="linha">
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+  </div>
+  <div class="linha">
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+  </div>
+  <div class="linha">
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+  </div>
+  <div class="linha">
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+  </div>
+  <div class="linha">
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+  </div>
+  <div class="linha">
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+  </div>
+  <div class="linha">
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+  </div>
+  <div class="linha">
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+    <div class="casa"></div>
+  </div>
+  
+</div>

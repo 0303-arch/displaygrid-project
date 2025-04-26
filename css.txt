@@ -1,0 +1,29 @@
+.tabuleiro{
+  width: 600px;
+  height: 600px;
+  background-color:rgb(136, 136, 136) ;
+  display: grid;
+  grid-template-columns: (8, 1fr);
+  grid-template-rows: repeat(8, 1fr);
+}
+
+.linha{
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+}
+
+.casa{
+  border: 1px solid black;
+  background-color: white;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+
+}
+
+.linha:nth-child(odd) .casa:nth-child(odd){
+  background-color: black;
+}
+
+.linha:nth-child(even) .casa:nth-child(even){
+  background-color: black;
+}
